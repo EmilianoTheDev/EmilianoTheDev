@@ -1,16 +1,57 @@
-## Hi there 👋
+# Emiliano Huerta
 
-<!--
-**EmilianoTheDev/EmilianoTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building meaningful software.
 
-Here are some ideas to get you started:
+Software Engineer focused on backend systems, cloud infrastructure, and thoughtful product design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently
+
+- 🏋️ Building xTrack
+- ☁️ Exploring distributed systems and AWS architecture
+- ✍️ Writing about software, discipline, and the process of building things that matter
+
+---
+
+## Featured Projects
+
+### xTrack
+
+An AI-powered iOS workout tracker built with SwiftUI, AWS Lambda, DynamoDB, Terraform, and OpenSearch.
+
+🌐 https://www.xtrackapps.com
+
+---
+
+### End-to-End Encrypted Chat
+
+A real-time encrypted messaging application exploring browser-side cryptography, end-to-end encryption concepts, and WebSocket-based communication.
+
+🌐 Live Demo  
+https://e2ee-web-application.vercel.app
+
+📄 Academic Paper  
+https://github.com/EmilianoTheDev/E2EE-Web-Application/blob/main/docs/e2ee-paper.pdf
+
+---
+
+### Portfolio
+
+https://emilianohuerta.com
+
+---
+
+## Technologies
+
+Swift • Python • AWS • Terraform • DynamoDB • Lambda • OpenSearch • React • JavaScript • GitHub Actions
+
+---
+
+## Connect
+
+🌐 Website  
+https://emilianohuerta.com
+
+💼 LinkedIn  
+https://linkedin.com/in/emilianohuerta
