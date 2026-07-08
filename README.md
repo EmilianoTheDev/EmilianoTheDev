@@ -50,8 +50,5 @@ Swift • Python • AWS • Terraform • DynamoDB • Lambda • OpenSearch �
 
 ## Connect
 
-🌐 Website  
-https://emilianohuerta.com
-
 💼 LinkedIn  
 https://linkedin.com/in/emilianohuerta
